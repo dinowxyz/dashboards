@@ -1,3 +1,6 @@
 [submodule "dashboards"]
 	path = dashboards
 	url = git@github.com:dinowxyz/dashboards.git
+[submodule "astroport-dashboards"]
+	path = astroport-dashboards
+	url = git@github.com:dinowxyz/ap-dashboards.git
