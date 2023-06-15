@@ -1,0 +1,3 @@
+[submodule "dashboards"]
+	path = dashboards
+	url = git@github.com:dinowxyz/dashboards.git
